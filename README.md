@@ -1,6 +1,13 @@
-Responsive website
-(Fake cloud hosting website) 
+## Responsive website
+(Originally - this is a fake cloud hosting website built by Brad Traversy on youtube tutorial)
 
-Practicing HTML, CSS Grid, Flexbox, Animations 
+### Features
+I built this website to  practice:
+* HTML, 
+* CSS Grid, 
+* Flexbox, 
+* Animations 
+`Delpoyed on Netlify`
 
-Deployed with Netlify https://heuristic-hopper-dc5475.netlify.app/index.html
+Loruki cloud hosting website Live Preview ( https://heuristic-hopper-dc5475.netlify.app/index.html )
+
