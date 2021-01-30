@@ -7,6 +7,8 @@ I built this website to  practice:
 * CSS Grid, 
 * Flexbox, 
 * Animations 
+
+
 `Delpoyed on Netlify`
 
 Loruki cloud hosting website Live Preview ( https://heuristic-hopper-dc5475.netlify.app/index.html )
