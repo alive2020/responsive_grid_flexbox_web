@@ -1,7 +1,6 @@
 ## Responsive website
 Loruki cloud hosting website [Live Preview](https://heuristic-hopper-dc5475.netlify.app/index.html)
-
-(Originally - this is a fake cloud hosting website built by Brad Traversy on youtube tutorial)
+###### (Originally - this is a fake cloud hosting website built by Brad Traversy on youtube tutorial)
 
 ### Features
 I built this website to  practice:
