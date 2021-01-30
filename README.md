@@ -9,7 +9,7 @@ I built this website to  practice:
 * Animations 
 
 
-`Delpoyed on Netlify`
+* `Delpoyed on Netlify`
 
 ___
 
